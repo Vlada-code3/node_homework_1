@@ -1,0 +1,29 @@
+{
+  "name": "node_homework_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlada-code3/node_homework_1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlada-code3/node_homework_1/issues"
+  },
+  "homepage": "https://github.com/Vlada-code3/node_homework_1#readme",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "esm": "^3.2.25",
+    "nodemon": "^2.0.15",
+    "shortid": "^2.2.16",
+    "uuid": "^8.3.2"
+  }
+}
